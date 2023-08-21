@@ -4,3 +4,6 @@
 
 # SST-OSS
 All open-source projects of scaler school of technology at one place.
+
+## how to join
+to join the org, you need to receive an invite from me via mail. Follow [these instructions](../JOINING.md)
