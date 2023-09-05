@@ -1,6 +1,6 @@
 name: Feature Request
 description: File a feature/enhancement request
-title: "[Bug]: "
+title: "feat: "
 labels: ["enhancement"]
 assignees:
   - probablyarth
@@ -9,10 +9,6 @@ body:
     attributes:
       value: |
         Thanks for taking the time to fill out this feature request!
-  - type: input
-    id: title
-    attributes:
-      label: Feature Title
   - type: textarea
     id: feature-explanation
     attributes:
