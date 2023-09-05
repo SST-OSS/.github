@@ -1,0 +1,22 @@
+name: Feature Request
+description: File a feature/enhancement request
+title: "[Bug]: "
+labels: ["enhancement"]
+assignees:
+  - probablyarth
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this feature request!
+  - type: input
+    id: title
+    attributes:
+      label: Feature Title
+  - type: textarea
+    id: feature-explanation
+    attributes:
+      label: Explain the feature
+      placeholder: Tell us what you want!
+    validations:
+      required: true
