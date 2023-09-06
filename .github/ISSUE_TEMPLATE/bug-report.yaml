@@ -13,13 +13,13 @@ body:
     id: bug-description
     attributes:
       label: Explain what happened
-      placeholder: the page crashed :flushed:
+      placeholder: the page crashed
     validations:
       required: true
   - type: textarea
     id: expected-behaviour
     attributes:
       label: What was expected
-      placeholder: the page shouldn't have crashed :grin:
+      placeholder: the page shouldn't have crashed
     validations:
       required: true
