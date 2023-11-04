@@ -1,9 +1,9 @@
 name: Feature Request
 description: File a feature/enhancement request
 title: "feat: "
-labels: ["enhancement"]
-assignees:
-  - probablyarth
+# labels: ["enhancement"]
+# assignees:
+#   - probablyarth
 body:
   - type: markdown
     attributes:
